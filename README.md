@@ -14,6 +14,8 @@ time=3.249180753s, counter=320000
 16.93user 1.60system 0:03.27elapsed 566%CPU (0avgtext+0avgdata 21028maxresident)k
 0inputs+32outputs (0major+1926minor)pagefaults 0swaps
 
+---
+
 ### Futex lock
 time=3.44880997s, counter=320000
 
